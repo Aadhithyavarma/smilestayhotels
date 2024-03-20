@@ -1,5 +1,5 @@
 {
-  "name": "trizen",
+  "name": "Smile Stay",
   "version": "3.0.0",
   "description": "Travel booking website",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kamran-hussen/trizen.git"
+    "url": "git+https://github.com/kamran-hussen/Smile Stay.git"
   },
   "author": "Kamran Ahmed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kamran-hussen/trizen/issues"
+    "url": "https://github.com/kamran-hussen/Smile Stay/issues"
   },
-  "homepage": "https://github.com/kamran-hussen/trizen#readme",
+  "homepage": "https://github.com/kamran-hussen/Smile Stay#readme",
   "devDependencies": {
     "browser-sync": "^2.26.7",
     "gulp": "^4.0.2",

@@ -1,7 +1,7 @@
 /*---------------------------------------------
-Template name:  Trizen - Travel, hotel Booking HTML5 Template
+Template name:  Smile Stay - Travel, hotel Booking HTML5 Template
 Version:        1.0
-Author:         TechyDevs
+Author:         Smile Stay
 Author Email:   contact@tecydevs.com
 
 [Table of Content]
